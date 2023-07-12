@@ -1,0 +1,8 @@
+# Ignore common virtual environment names anywhere in project
+**/venv
+**/.venv
+.chroma
+chroma_db/
+output.txt
+.env
+lib/__pycache__/*
